@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(176, 202, 236);
+}
+.MENU{
+    background-color: rgb(20, 167, 172);
+    width: 35cm;
+    height: 40px;
+    display: flex;
+    padding: 15px;
+    position: fixed;
+    word-spacing: 30px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.CV{
+    top: 100px;
+  
+
+}
+.IMG{
+    height: 150px;
+    width: 200x;
+    float: left;
+    border: solid black;
+    box-shadow: 2px 3px 10px black;
+    margin-top: 70px;
+    margin-left: 15px;
+    margin-right: 15px;
+    filter: grayscale(100%);
+    top: 6cm;
+
+}
+.BT{
+    border: none;
+    background-color: aquamarine;
+    width: 80;
+    height: 30;
+}
